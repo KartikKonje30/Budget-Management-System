@@ -195,15 +195,7 @@ import {getAuth, onAuthStateChanged, signOut} from "https://www.gstatic.com/fire
 import{getFirestore, getDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
 
 const firebaseConfig = {
-    //YOUR COPIED FIREBASE PART SHOULD BE HERE
- //WATCH THIS VIDEO TO LEARN WHAT TO PUT HERE   https://youtu.be/_Xczf06n6x0
- apiKey: "AIzaSyAd-9UiwIvY_6a4jnyTa6hpMiP7x68wZSg",
- authDomain: "budget-management-7bad9.firebaseapp.com",
- projectId: "budget-management-7bad9",
- storageBucket: "budget-management-7bad9.appspot.com",
- messagingSenderId: "788488853062",
- appId: "1:788488853062:web:7b1403bdad09c3c1f85c47",
- measurementId: "G-KLN9MNPFVE",
+    //YOUR COPIED FIREBASE CONGIG DATA SHOULD BE HERE
   };
  
   // Initialize Firebase
